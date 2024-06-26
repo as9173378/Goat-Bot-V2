@@ -22,7 +22,7 @@ module.exports = {
 					+ "\n  + {multiple}: bạn || các bạn"
 					+ "\n  + {session}:  buổi trong ngày"
 					+ "\n\n   Ví dụ:"
-					+ "\n    {pn} text Hello {userName}, welcome to {boxName}, chúc {multiple} một ngày mới vui vẻ"
+					+ "\n    {pn} text Hello {userName}, welcome to {boxName}, group ma xada na bolnu hola na vaye kick khanu hunxa, chúc {multiple} một ngày mới vui vẻ"
 					+ "\n"
 					+ "\n   Reply (phản hồi) hoặc gửi kèm một tin nhắn có file với nội dung {pn} file: để thêm tệp đính kèm vào tin nhắn chào mừng (ảnh, video, audio)"
 					+ "\n\n   Ví dụ:"
